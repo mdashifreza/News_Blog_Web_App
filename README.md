@@ -24,7 +24,7 @@ To run the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/mdashifreza/impresario_global_frontend.git
-   cd news-app
+   cd impresario_global_frontend
 4. Install dependencies:
     ```bash
     npm install
