@@ -10,6 +10,59 @@ This project aims to create a responsive and user-friendly News Blog application
    - **Email ID:** impresario_global@gmail.com
    - **Password:** global@123
 
+This project is a web application that provides features for user authentication, a dashboard to display articles, article detail pages, and functionality to create, edit, and delete articles.
+
+## Features implemented
+
+- [Authentication](#authentication)
+- [Dashboard](#dashboard)
+- [Article Detail Page](#article-detail-page)
+- [Create/Edit Article](#createedit-article)
+- [Delete Article](#delete-article)
+
+## Authentication
+
+- Users can register with a username, email, and password.
+- Users can log in with their credentials.
+- Authentication is required to access certain features (e.g., creating and deleting articles).
+
+## Dashboard
+
+- After logging in, users are directed to a dashboard displaying a list of articles.
+- Each article card shows the title, a brief excerpt, and the author's username.
+
+## Article Detail Page
+
+- Clicking on an article card leads to a detailed view of the article.
+- The detailed view includes the full content of the article, the author's username, and a back button to return to the dashboard.
+
+## Create/Edit Article
+
+- Authenticated users can create new articles.
+- Users can edit their own articles.
+- Form fields for the article title and content.
+
+## Delete Article
+
+- Authenticated users can delete their own articles.
+- A confirmation modal might be implemented for safety.
+
+# Technical Implementation
+
+## Frontend
+
+- **React:** Used for building the user interface.
+- **Redux:** Employed for state management.
+- **Axios:** Utilized for handling API requests.
+- **React Router:** Implemented for navigation.
+
+## Backend
+
+- **Node.js and Express:** Utilized for the server.
+- **MongoDB:** Chosen for data storage.
+- **Mongoose:** Employed for database interactions.
+- **JWT:** Used for authentication.
+
 ## Project Live
 link: (https://impresario-global-frontend.vercel.app/)
 
