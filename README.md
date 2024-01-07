@@ -23,7 +23,7 @@ To run the project locally, follow these steps:
 3. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/impresario_global_frontend.git
+   git clone https://github.com/mdashifreza/impresario_global_frontend.git
    cd news-app
 4. Install dependencies:
     ```bash
