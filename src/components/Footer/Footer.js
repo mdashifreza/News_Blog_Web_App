@@ -24,8 +24,7 @@ const Footer = () => {
                     <button className=" text-white py-2 px-4 rounded-md mt-2 bg-yellow-500">Subscribe</button>
                 </div>
                 <div className="text-center md:text-left">
-                    <p className="text-sm">Impresario Global</p>
-                    <p className="text-sm">© 2022 IMGlobal Media Pvt. Ltd.</p>
+                    <p className="text-sm">Made with ❤️ by Md Ashif Reza</p>
                     <div className="flex mt-2">
                         <button className="mr-2"><FaInstagram /></button>
                         <button className="mr-2"><BiLogoLinkedinSquare /></button>
