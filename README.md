@@ -1,4 +1,4 @@
-# News Blog Web App Assignment
+# News Blog Web App
 
 ## Overview
 This project aims to create a responsive and user-friendly News Blog application with Crud Operation storing news from https://newsdata.io/ throungh api in mongoDB.
